@@ -1,2 +1,2 @@
 # redesigned-octo-journey
-Student projects in the Machine Learning field, using Python
+Student projects (labs) on the algorithms topic, using Python 3.
