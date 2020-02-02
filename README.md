@@ -1,2 +1,2 @@
 # redesigned-octo-journey
-Student projects (labs) on the algorithms topic, using Python 3.
+Student labs on algorithms, using Python 3.
